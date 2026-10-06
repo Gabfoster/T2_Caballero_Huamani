@@ -10,3 +10,6 @@ Evidencia correspondiente a la evaluación continua T2 de Lenguaje de Programaci
 
 ## Control de cambios
 Registro y gestion de modificaciones realizadas durante la evaluacion T2.
+
+## Gestión de ramas
+Funcionalidad desarrollada en la rama feature-caballero para pruebas de integración y merge.
