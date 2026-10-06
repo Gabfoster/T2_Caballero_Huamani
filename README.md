@@ -7,3 +7,6 @@ Descripción: Repositorio base para la evaluación continua T2. Proyecto Java Ma
 
 ## Evidencia T2
 Evidencia correspondiente a la evaluación continua T2 de Lenguaje de Programación II.
+
+## Control de cambios
+Registro y gestion de modificaciones realizadas durante la evaluacion T2.
